@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.LanyueUI;
 
-public class TestSizeDelta : MonoBehaviour, IMeshModifier
+public class AutoFillScreen : MonoBehaviour, IMeshModifier
 {
     public Vector2 size;
     public bool enable = false;
